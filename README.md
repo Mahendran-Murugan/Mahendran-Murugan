@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahendran-Murugan](https://github.com/Mahendran-Murugan)
+- 👨‍💻 All of my projects are available at [https://mahendran-murugan.github.io/PortFolio/](https://mahendran-murugan.github.io/PortFolio/)
 
 - 💬 Ask me about **Android , Kotlin, Figma, Python, C, C++**
 
