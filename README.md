@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://mahendran-murugan.github.io/PortFolio/](https://mahendran-murugan.github.io/PortFolio/)
-
+- 👨‍💻 All of my projects are available at [https://github.com/Mahendran-Murugan/](https://github.com/Mahendran-Murugan/)
 - 💬 Ask me about **Android , Kotlin, Figma, Python, C, C++**
 
 - 📫 How to reach me **mahendran1482004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jsR3dwX0ci9bBle2FIYqS4iNYBP3yW6O/edit?usp=sharing&ouid=111755852715381472584&rtpof=true&sd=true](https://docs.google.com/document/d/1jsR3dwX0ci9bBle2FIYqS4iNYBP3yW6O/edit?usp=sharing&ouid=111755852715381472584&rtpof=true&sd=true)
+- 📄 Know about my experiences 
+[https://mahendran-murugan.github.io/PortFolio/](https://mahendran-murugan.github.io/PortFolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
