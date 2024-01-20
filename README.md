@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mahendran Murugan</h1>
-<h2 align="center" style="marigin:20dp;">Software Developer</h2>
+<h2 align="center" >Software Developer</h2> <br>
 <p align="center">
 <img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences check
 [**Portfolio**](https://mahendran-murugan.github.io/PortFolio/)
-</p>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahendran-murugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendran-murugan" height="30" width="40" /></a>
@@ -35,3 +35,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahendran-Murugan&theme=dark&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendran-murugan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahendran-murugan" /></p><br>
+</p>
