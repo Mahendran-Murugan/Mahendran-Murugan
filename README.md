@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahendran Murugan</h1>
 <h2 align="center" >Software Developer</h2> <br>
 <p align="center">
-<img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
+<img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendran-murugan&label=Profile%20views&color=0e75b6&style=flat" alt="mahendran-murugan" /> </p>
 
