@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Mahendran Murugan</h1>
+<h1 align="center">Hi 👋 , I'm Mahendran Murugan</h1>
 <h2 align="center" >Software Developer</h2> <br>
 <p align="center">
 <img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
@@ -8,9 +8,10 @@
 
 - 🔭 I’m currently working on **Alumni Application**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Django and Blender**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Django , REST API and Blender**
 
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Mahendran-Murugan/)
+  
 - 💬 Ask me about **Android , Kotlin, Figma, Python, C, C++**
 
 - 📫 How to reach me **mahendran1482004@gmail.com**
