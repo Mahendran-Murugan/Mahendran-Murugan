@@ -12,11 +12,9 @@
 
 - 🔭 I’m currently working on **Alumni Application**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Django , REST API and Blender**
+- 🌱 I’m currently learning **Express JS, TailwindCSS, Data Structures and Algorithms , REST API and Blender**
 
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Mahendran-Murugan/)
-  
-- 💬 Ask me about **Android , Kotlin, Figma, Python, C, C++**
 
 - 📫 How to reach me **mahendran1482004@gmail.com**
 
