@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **mahendran1482004@gmail.com**
 
-- 📄 Know about my experiences check
-[**Portfolio**](https://mahendran-murugan.github.io/PortFolio/)
+<!-- - 📄 Know about my experiences check
+[**Portfolio**](https://mahendran-murugan.github.io/PortFolio/) -->
 <br>
 <h3 align="left">Connect with me:</h3>
 <br>
